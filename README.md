@@ -1,2 +1,2 @@
-# quant_journey
-this is my journey to learn quant
+# Quant Journey
+this is my journey to learning quant
